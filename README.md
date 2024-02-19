@@ -1,5 +1,5 @@
-- ### Computer Science Junior @ASU
-- ### Web Developer [@The Nixer](https://thenixer.com)
+- ### Computer Science Junior at ASU
+- ### Web Developer at [The Nixer](https://thenixer.com)
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=superstarjfg&hide_current_streak=true&hide_longest_streak=true&card_width=300&theme=dark)](https://git.io/streak-stats)
 
