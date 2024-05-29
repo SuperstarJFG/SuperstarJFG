@@ -1,4 +1,4 @@
-- ### Computer Science Junior at ASU
+- ### Computer Science Senior at ASU
 - ### Web Developer for [The Nixer](https://thenixer.com) and Others
 - ### [Play My Games!](https://superstarjfg.itch.io/)
 ---
